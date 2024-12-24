@@ -59,6 +59,10 @@ local full_resistances = function()
       {
         type = "laser",
         percent = 100
+      },
+      {
+        type = "electric",
+        percent = 100
       }
     }
   end
